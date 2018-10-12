@@ -1,0 +1,17 @@
+D:\CSC423\NTFSDeletedFileBrowser\bin\Debug\NTFSDeletedFileBrowser.exe.config
+D:\CSC423\NTFSDeletedFileBrowser\bin\Debug\NTFSDeletedFileBrowser.exe
+D:\CSC423\NTFSDeletedFileBrowser\bin\Debug\NTFSDeletedFileBrowser.pdb
+D:\CSC423\NTFSDeletedFileBrowser\bin\Debug\NtfsReader.dll
+D:\CSC423\NTFSDeletedFileBrowser\obj\Debug\NTFSDeletedFileBrowser.csprojResolveAssemblyReference.cache
+D:\CSC423\NTFSDeletedFileBrowser\obj\Debug\MainWindow.g.cs
+D:\CSC423\NTFSDeletedFileBrowser\obj\Debug\App.g.cs
+D:\CSC423\NTFSDeletedFileBrowser\obj\Debug\NTFSDeletedFileBrowser_MarkupCompile.cache
+D:\CSC423\NTFSDeletedFileBrowser\obj\Debug\NTFSDeletedFileBrowser_MarkupCompile.lref
+D:\CSC423\NTFSDeletedFileBrowser\obj\Debug\MainWindow.baml
+D:\CSC423\NTFSDeletedFileBrowser\obj\Debug\NTFSDeletedFileBrowser.g.resources
+D:\CSC423\NTFSDeletedFileBrowser\obj\Debug\NTFSDeletedFileBrowser.Properties.Resources.resources
+D:\CSC423\NTFSDeletedFileBrowser\obj\Debug\NTFSDeletedFileBrowser.csproj.GenerateResource.cache
+D:\CSC423\NTFSDeletedFileBrowser\obj\Debug\NTFSDeletedFileBrowser.csproj.CoreCompileInputs.cache
+D:\CSC423\NTFSDeletedFileBrowser\obj\Debug\NTFSDeletedFileBrowser.csproj.CopyComplete
+D:\CSC423\NTFSDeletedFileBrowser\obj\Debug\NTFSDeletedFileBrowser.exe
+D:\CSC423\NTFSDeletedFileBrowser\obj\Debug\NTFSDeletedFileBrowser.pdb
