@@ -1,0 +1,6 @@
+D:\CSC423\ntfsreader-src_v1.0\NtfsReader\bin\Debug\NtfsReader.dll
+D:\CSC423\ntfsreader-src_v1.0\NtfsReader\bin\Debug\NtfsReader.pdb
+D:\CSC423\ntfsreader-src_v1.0\NtfsReader\obj\Debug\NtfsReader.csprojResolveAssemblyReference.cache
+D:\CSC423\ntfsreader-src_v1.0\NtfsReader\obj\Debug\NtfsReader.csproj.CoreCompileInputs.cache
+D:\CSC423\ntfsreader-src_v1.0\NtfsReader\obj\Debug\NtfsReader.dll
+D:\CSC423\ntfsreader-src_v1.0\NtfsReader\obj\Debug\NtfsReader.pdb
